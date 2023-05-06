@@ -1,5 +1,3 @@
-Click [here](README.md) for the English version.
-
 ## 概要
 東工大ポータルのスクレイピングのコードです。
 本コードでは東工大のID、パスワード並びにマトリックスの入力をしてログインしています。

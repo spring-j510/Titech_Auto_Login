@@ -1,4 +1,4 @@
-日本語バージョンは[こちら](README.ja.md)をクリックしてください。
+日本語バージョンは[こちら](about_readme/README.ja.md)をクリックしてください。
 
 ## Summary
 This is a scraping code for the Tokyo Tech Portal.
@@ -11,7 +11,7 @@ This code was created with selenium 4.8.3, ChromeVersion 113.0.5672.63 (Official
 
 Chromedriver is required for scraping, but gitignore is used for rights reasons. Please access from this [chromedriver](https://chromedriver.chromium.org), and when you access the link, you will see the screen like the following screenshot, so please check the version and download ChromeDriver 113.0.5672.63(Official Build). Please check the version and download ChromeDriver 113.0.5672.63 to the same directory.
 
-![screenshot](screenshot.png)
+![screenshot](about_readme/screenshot.png)
 
 In addition, you need to create a csv file of the student's personal information, so please enter each information in Generate_csv.ipynb and create [student_id.csv](student_info/student_id.csv), [student_matrix.csv]( student_info/student_matrix.csv).
 These operations should be performed locally.
