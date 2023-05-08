@@ -11,7 +11,7 @@
 
 ![screenshot](screenshot.png)
 
-また、学生の個人情報をcsvで作成する必要があるのでGenerate_csv.ipynbに各情報を入力していただき[student_id.csv](student_info/student_id.csv)、[student_matrix.csv](student_info/student_matrix.csv)を作成してください。
+また、学生の個人情報をcsvで作成する必要があるのでGenerate_csv.ipynbに各情報を入力していただきstudent_id.csv、student_matrix.csvを作成してください。
 これらの操作はローカルで行ってください。
 
 上記、学生の個人情報を入力するとスクレイピングのコードが動くので適宜修正を加えてご活用いただければ幸いです。
